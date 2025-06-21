@@ -2,7 +2,7 @@
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/your-portfolio",
+  "homepage": "https://github.com/abhishekanand0811/personal-portfolio",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
