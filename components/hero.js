@@ -39,8 +39,8 @@ export function Hero() {
   const downloadResume = () => {
     // Create a temporary link element
     const link = document.createElement("a")
-    link.href = "/Abhishek_Resume.pdf" // Path to your resume file in the public folder
-    link.download = "Abhishek_Anand_Resume.pdf" // Updated filename
+    link.href = "/New_Resume.pdf" // Path to your resume file in the public folder
+    link.download = "New_Resume.pdf" // Updated filename
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
@@ -69,7 +69,7 @@ export function Hero() {
             <div className="w-40 h-40 mx-auto rounded-full bg-gradient-to-r from-blue-500 via-purple-600 to-pink-500 p-1 animate-pulse-slow">
               <div className="w-full h-full rounded-full bg-background flex items-center justify-center overflow-hidden">
                 <img
-                  src="/me.jpg"
+                  src="/me_new.jpg"
                   alt="Abhishek Anand"
                   className="w-full h-full object-cover rounded-full"
                   onError={(e) => {

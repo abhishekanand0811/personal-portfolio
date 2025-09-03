@@ -123,7 +123,7 @@ export function Contact() {
       </div>
 
       <footer className="mt-20 pt-8 border-t text-center text-muted-foreground">
-        <p>&copy; 2024 John Doe. All rights reserved.</p>
+        <p>&copy; 2025 Abhishek Anand. All rights reserved.</p>
       </footer>
     </section>
   )
