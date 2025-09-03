@@ -69,7 +69,7 @@ export function Hero() {
             <div className="w-40 h-40 mx-auto rounded-full bg-gradient-to-r from-blue-500 via-purple-600 to-pink-500 p-1 animate-pulse-slow">
               <div className="w-full h-full rounded-full bg-background flex items-center justify-center overflow-hidden">
                 <img
-                  src="/me_new.jpg"
+                  src="/me.jpg"
                   alt="Abhishek Anand"
                   className="w-full h-full object-cover rounded-full"
                   onError={(e) => {
